@@ -61,22 +61,22 @@ export default {
         {
           icon: "/images/svg/topic.svg",
           title: "Topics",
-          to: "/dashboard",
+          to: "/dashboard/topics",
         },
         {
-          icon: "/images/svg/comment.svg",
+          icon: "/images/svg/comment-grey.svg",
           title: "Chats",
-          to: "/dashboard",
+          to: "/dashboard/chats",
         },
         {
-          icon: "/images/svg/comment.svg",
+          icon: "/images/svg/comment-grey.svg",
           title: "Groups",
-          to: "/dashboard",
+          to: "/dashboard/groups",
         },
         {
           icon: "/images/svg/sidebar-user.svg",
           title: "Users",
-          to: "/dashboard",
+          to: "/dashboard/users",
         },
         {
           icon: "/images/svg/sidebar-helpdesk.svg",
