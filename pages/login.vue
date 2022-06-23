@@ -30,7 +30,6 @@
                 class="mt-1 input-group--focused"
                 :type="showPassword ? 'text' : 'password'"
                 name="input-10-2"
-                label="Not visible"
                 hint="At least 8 characters"
                 @click:append="showPassword = !showPassword"
               ></v-text-field>
