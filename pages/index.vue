@@ -4,8 +4,9 @@
 
 <script>
 export default {
+  layout: "empty",
   beforeMount() {
-    this.$router.push("/dashboard");
+    this.$router.push("/login");
   },
 };
 </script>
