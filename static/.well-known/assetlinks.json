@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.pennytots",
+      "sha256_cert_fingerprints": [
+        "AD:22:06:40:6E:98:11:70:E3:F3:08:7E:AA:0E:6E:B2:01:5D:EB:99:8D:0A:C3:9C:AE:EA:7B:77:8C:A6:96:92"
+      ]
+    }
+  }
+]
